@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import com.rd.commons.Setup;
 
 public class Click extends Setup{
+	//branching
 	
 	static JavascriptExecutor js = (JavascriptExecutor) driver;
 	
